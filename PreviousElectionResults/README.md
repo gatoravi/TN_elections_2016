@@ -1,0 +1,13 @@
+##Sources
+- 2011 - http://eci.nic.in/eci_main/StatisticalReports/AE2011/stat_TN_May2011.pdf
+- 2006 - http://eci.nic.in/eci_main/StatisticalReports/SE_2006/StatReport_TN_2006.pdf
+- 2001 - http://eci.nic.in/eci_main/StatisticalReports/SE_2001/Stat_Rep_TN_2001.pdf
+- 1996 - http://eci.nic.in/eci_main/StatisticalReports/SE_1996/StatisticalReport-TN96.pdf
+- 1991 - http://eci.nic.in/eci_main/StatisticalReports/SE_1991/StatisticalReport-Tamil%20Nadu91.pdf
+- 1989 - http://eci.nic.in/eci_main/StatisticalReports/SE_1989/StatisticalReportTamilNadu89.pdf
+- 1984 - http://eci.nic.in/eci_main/StatisticalReports/SE_1984/StatisticalReportTamilNadu84.pdf
+- 1980 - http://eci.nic.in/eci_main/StatisticalReports/SE_1980/StatisticalReportTamil%20Nadu%201980.pdf
+- 1977 - http://eci.nic.in/eci_main/StatisticalReports/SE_1977/StatisticalReportTamil%20Nadu77.pdf
+- 1971 - http://eci.nic.in/eci_main/StatisticalReports/SE_1971/StatReport_TN_71.pdf
+- 1967 - http://eci.nic.in/eci_main/StatisticalReports/SE_1967/Statistical%20Report%20Madras%201967.pdf
+- All States - http://eci.nic.in/eci_main1/ElectionStatistics.aspx
